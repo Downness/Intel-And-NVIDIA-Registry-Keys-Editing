@@ -15,12 +15,12 @@ First thing that I was asking is the 2 given options in the Registry Keys for â€
 Contents
 -------------------------------------------------------
 
-How to speed up your Intel processor using Registry Keys
-Graphic cards registry editor settings
-HardwareAcceleration
-DirectX
-Intel Graphics Software Settings (with editing Registry Keys)
-NVIDIA (CoProcManager registry keys editing and Control Panel settings editing)
+* How to speed up your Intel processor using Registry Keys
+* Graphic cards registry editor settings
+* HardwareAcceleration
+* DirectX
+* Intel Graphics Software Settings (with editing Registry Keys)
+* NVIDIA (CoProcManager registry keys editing and Control Panel settings editing)
 
 
 
