@@ -1,3 +1,9 @@
+How to enable the physics Quantum Wall
+-------------------------------------------------------------------------------
+* Editing dual graphic cards Intel and NVIDIA settings (Registry Keys and NVIDIA Control Panel)
+* Editing Color Management settings
+
+This enables us full spectrum of task managing and necessary working informations and help
 
 How to speed up your processor using Registry Keys
 -------------------------------------------------------------------------------
